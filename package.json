@@ -21,6 +21,9 @@
     "start": "node server.js",
     "seed": "node seeds/index.js"
   },
+
+ 
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AnjinIsmail/just_tech_news.git"
